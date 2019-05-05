@@ -1,0 +1,2 @@
+G - The path environment variables are set in such a way so that windows can reach and search the folders for the binaries asked in the CMD.
+It starts its search from the top, so we should place the most used binaries at the top and we can also keep the most desired version on the top.
